@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-231.97901"
-     inkscape:cy="168.91352"
+     inkscape:zoom="0.7"
+     inkscape:cx="242.19071"
+     inkscape:cy="230.8775"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -58,9 +58,12 @@
      id="layer1"
      transform="translate(-27.526631,-77.621347)">
     <path
-       style="fill:#ffffff;fill-opacity:0.5151515;stroke:none;stroke-width:0.72371989;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.72371989;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 27.526631,77.621347 V 209.4101 H 168.26503 V 189.55108 77.621347 L 149.30859,189.55108 H 74.839192 V 136.29455 L 47.343263,96.576511 168.26503,77.621347 Z"
        id="path4599"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Pedro P Rodriguez\Documents\Proyectos\Web Dev\Portfolio\favicon.png"
+       inkscape:export-xdpi="72.190002"
+       inkscape:export-ydpi="72.190002" />
   </g>
 </svg>

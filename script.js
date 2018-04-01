@@ -25,3 +25,9 @@ function start() {
 }
 
 start();
+
+$(".seeProjects").click(function () {
+    $("html,body").animate({
+        scrollTop: $(".projectsDiv").offset().top
+    });
+});
