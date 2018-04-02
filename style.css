@@ -95,7 +95,7 @@ body {
 }
 
 .project {
-    max-width: 70rem;
+    max-width: 55rem;
     display: flex;
     justify-content: space-around;
 }
@@ -112,10 +112,20 @@ body {
 .projectTitleAndDescription {
     color: white;
     width: 45%;
+    display: flex;
+    flex-direction: column;
+}
+
+.projectTitle {
+    margin-top: 0;
 }
 
 .projectDescription {
     color: #67656f;
+}
+
+.visit {
+    margin-top: 40px;
 }
 
 hr {
